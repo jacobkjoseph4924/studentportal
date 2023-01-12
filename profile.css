@@ -1,0 +1,38 @@
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    padding-left: 20%;
+    width: 30%;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 70%;
+    border-radius: 25%;
+    float: left;
+    
+  }
+  
+  /* Add padding to containers */
+  .container {
+    
+    /* padding-left: 20%; */
+    padding-right: 20%;
+    /* padding-top: 10%; */
+
+  }
+  .name-field{
+    text-decoration: solid;
+    text-size-adjust: 10px;
+    width: 50%;
+    padding-top: 10%;
+    float: right;
+    
+    
+  }
+  .data-field{
+    padding-left: 50%;
+    width: 25%;
+    
+
+  }
